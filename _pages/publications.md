@@ -7,6 +7,10 @@ header:
   overlay_filter: 0.6
 ---
 
+### 2025
+
+Marshall, BM, AL Alamshah, P Cardoso, P Cassey, S Chekunov, **EA Eskew**, CS Fukushima, P García-Díaz, ML Gore, JL Lockwood, AL Rhyne, JS Sinclair, CT Strine, OC Stringham, MF Tlusty, JW Valdez, Freyja Watters, and AC Hughes. [The magnitude of legal wildlife trade and implications for species survival](/assets/docs/Marshall_etal_2025.pdf). [[Figshare repository](https://figshare.com/s/960af99373aba13791be)]
+
 ### 2024
 
 Mark, M, TC Christensen, RE Kwait, **EA Eskew**, I Zoccolo, EJ Struck, and B Maslo. [Apparent ophidiomycosis alters eastern copperhead (*Agkistrodon contortrix*) behavior and habitat use](/assets/docs/Mark_etal_2024.pdf).
