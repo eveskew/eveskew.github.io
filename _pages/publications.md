@@ -9,6 +9,8 @@ header:
 
 ### 2025
 
+**Eskew, EA**, KJ Olival, JAK Mazet, and P Daszak. [A global-scale dataset of bat viral detection suggests that pregnancy reduces viral shedding](/assets/docs/Eskew_etal_2025_PRSB.pdf). [[GitHub repository](https://github.com/ecohealthalliance/bat_viral_detection_reproduction); [Zenodo repository](https://doi.org/10.5281/zenodo.15013577)]
+
 Marshall, BM, AL Alamshah, P Cardoso, P Cassey, S Chekunov, **EA Eskew**, CS Fukushima, P García-Díaz, ML Gore, JL Lockwood, AL Rhyne, JS Sinclair, CT Strine, OC Stringham, MF Tlusty, JW Valdez, Freyja Watters, and AC Hughes. [The magnitude of legal wildlife trade and implications for species survival](/assets/docs/Marshall_etal_2025.pdf). [[Figshare repository](https://figshare.com/s/960af99373aba13791be)]
 
 ### 2024
