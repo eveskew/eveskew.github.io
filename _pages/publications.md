@@ -9,13 +9,15 @@ header:
 
 ### 2025
 
+Marshall, BM, CT Strine, ML Gore, **EA Eskew**, OC Stringham, P Cardoso, S Chekunov, F Watters, C Fukushima, P García-Díaz, JS Sinclair, MF Tlusty, RJ Almeida, JW Valdez, and AC Hughes. [Mapping the global dimensions of US wildlife imports](/assets/docs/Marshall_etal_2025b.pdf). [[GitHub repository](https://github.com/BenMMarshall/mapTradeLEMIS); [Zenodo repository](https://doi.org/10.5281/zenodo.14982542)]
+
 Kwait, RE, **EA Eskew**, ML Pinsky, SA Gignoux-Wolfsohn, MJ Vonhof, and B Maslo. [Transcriptomic evidence of cytokine storm and sepsis in little brown bats exposed to white-nose syndrome](/assets/docs/Kwait_etal_2025.pdf).
 
 Emmenegger, EJ, RA Lavier, EJ Struck, VP Tyurina, **EA Eskew**, MR Friesen, MA Taylor, EK Bueren, DR Kyle, JM Schultz, A Pleus, RH Visser II, R Ojala-Barbour, CD Anderson, JS Jensen, M Keller, TS Jenkinson, K Haman, TR Capps, KI Warheit, T Quinn, J Bush, and MR Lambert. [Invasive African clawed frogs (*Xenopus laevis*) in Washington State: status, response efforts, and lessons learned](/assets/docs/Emmenegger_etal_2025.pdf). [[USGS ScienceBase repository](https://doi.org/10.5066/P134GH4R)] 
 
 **Eskew, EA**, KJ Olival, JAK Mazet, and P Daszak. [A global-scale dataset of bat viral detection suggests that pregnancy reduces viral shedding](/assets/docs/Eskew_etal_2025_PRSB.pdf). [[GitHub repository](https://github.com/ecohealthalliance/bat_viral_detection_reproduction); [Zenodo repository](https://doi.org/10.5281/zenodo.15013577)]
 
-Marshall, BM, AL Alamshah, P Cardoso, P Cassey, S Chekunov, **EA Eskew**, CS Fukushima, P García-Díaz, ML Gore, JL Lockwood, AL Rhyne, JS Sinclair, CT Strine, OC Stringham, MF Tlusty, JW Valdez, Freyja Watters, and AC Hughes. [The magnitude of legal wildlife trade and implications for species survival](/assets/docs/Marshall_etal_2025.pdf). [[Figshare repository](https://figshare.com/s/960af99373aba13791be)]
+Marshall, BM, AL Alamshah, P Cardoso, P Cassey, S Chekunov, **EA Eskew**, CS Fukushima, P García-Díaz, ML Gore, JL Lockwood, AL Rhyne, JS Sinclair, CT Strine, OC Stringham, MF Tlusty, JW Valdez, F Watters, and AC Hughes. [The magnitude of legal wildlife trade and implications for species survival](/assets/docs/Marshall_etal_2025a.pdf). [[Figshare repository](https://figshare.com/s/960af99373aba13791be)]
 
 ### 2024
 
