@@ -9,6 +9,8 @@ header:
 
 ### 2025
 
+Bakamutumaho, B, J Juma, E Clancey, L Nyakarahuka, S Situma, R Odinoh, J Dawa, C Nasimiyu, **EA Eskew**, S Balinandi, S Mulei, J Kayiwa, JD Klena, TR Shoemaker, SLM Whitmer, JM Montgomery, J Schieffelin, J Lutwama, A Muruta, HK Bosa, SL Nuismer, SO Oyola, RF Breiman, MK Njenga. [Hyperendemicity of Rift Valley fever in southwestern Uganda associated with rapidly evolving lineage C viruses](https://doi.org/10.1093/infdis/jiaf417).
+
 Marshall, BM, CT Strine, ML Gore, **EA Eskew**, OC Stringham, P Cardoso, S Chekunov, F Watters, C Fukushima, P García-Díaz, JS Sinclair, MF Tlusty, RJ Almeida, JW Valdez, and AC Hughes. [Mapping the global dimensions of US wildlife imports](/assets/docs/Marshall_etal_2025b.pdf). [[GitHub repository](https://github.com/BenMMarshall/mapTradeLEMIS); [Zenodo repository](https://doi.org/10.5281/zenodo.14982542)]
 
 Kwait, RE, **EA Eskew**, ML Pinsky, SA Gignoux-Wolfsohn, MJ Vonhof, and B Maslo. [Transcriptomic evidence of cytokine storm and sepsis in little brown bats exposed to white-nose syndrome](/assets/docs/Kwait_etal_2025.pdf).
