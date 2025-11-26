@@ -9,6 +9,8 @@ header:
 
 ### 2025
 
+Nikc, K, GF Albery, DJ Becker, **EA Eskew**, AC Fagre, SJ Ryan, and CJ Carlson. [Viral diversity and zoonotic risk in endangered species](/assets/docs/Nikc_etal_2025.pdf). [[Zenodo repository](https://doi.org/10.5281/zenodo.17387975)]
+
 Kwait, R, **EA Eskew**, S Gignoux-Wolfsohn, ML Pinsky, M Vonhof, B Hines, and B Maslo. [Low-coverage whole-genome analysis of population structure, bottlenecks, and selection in Indiana bats before and after white-nose syndrome](https://doi.org/10.1111/mec.70172). [[GitHub repository](https://github.com/BKrek89/M.-sodalis-LcWGS)]
 
 Bakamutumaho, B, J Juma, E Clancey, L Nyakarahuka, S Situma, R Odinoh, J Dawa, C Nasimiyu, **EA Eskew**, S Balinandi, S Mulei, J Kayiwa, JD Klena, TR Shoemaker, SLM Whitmer, JM Montgomery, J Schieffelin, J Lutwama, A Muruta, HK Bosa, SL Nuismer, SO Oyola, RF Breiman, and MK Njenga. [Hyperendemicity of Rift Valley fever in southwestern Uganda associated with rapidly evolving lineage C viruses](https://doi.org/10.1093/infdis/jiaf417).
